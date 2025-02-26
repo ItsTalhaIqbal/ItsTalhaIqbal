@@ -1,4 +1,4 @@
-# 💫 Hey Coding World! It's TalhaIqbal:
+# 💫 Hey Coding World! It's TalhaIqbal
 
 I'm currently working as a fullstack developer...
 
